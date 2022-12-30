@@ -1,0 +1,30 @@
+body {
+    font-family: 'Signika Negative', sans-serif;
+    background-color: #f2e9e4;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 15px;
+    border: 1.5px solid #22223b;
+    border-radius: 6px; 
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
+    background-color: #0c0c0ca6;
+    color: #f2e9e4;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #9a8c98;
+    padding: 20px;
+  }
